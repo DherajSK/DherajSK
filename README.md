@@ -6,7 +6,7 @@ I'm a perfectionist, always ready to learn something new.<br>
 :white_check_mark: **C/C++**
 :white_check_mark: **Python**
 
-Areas of Interest: 
+## Areas of Interest 
 **Computer Networks, Machine Learing, Linux, IOT and Embedded Systems, Web Development.**<br><br>
 Currently learning DSA, Computer Networks and Linux!<br>
 I would love to contribute to **Open Source Projects** that help me learn and improve my skills.
