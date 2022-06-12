@@ -1,6 +1,6 @@
 ### Hi, I'm Dheraj 😄
 I'm a technophile, interested in Programming.<br>
-I'm a perfectionist, always ready to learn something new.<br>
+Always ready to learn something new!<br>
 
 ## Programming Languages
 :white_check_mark: **C/C++**
